@@ -1,0 +1,12 @@
+# Exported from 3D Builder
+mtllib SpaceShuttle.mtl
+
+o Object.1
+v -1 -1 0
+v -1  1 0
+v 1  1 0
+v 1 -1 0
+
+u 
+f 1 2 3
+f 1 4 3
